@@ -1,0 +1,10 @@
+export const SET_MOVIES = "SET_MOVIES";
+export const LOAD_MOVIES = "LOAD_MOVIES";
+export const SEARCH_MOVIE = "SEARCH_MOVIE";
+export const LOAD_ONE_MOVIE = "LOAD_ONE_MOVIE";
+export const SET_ONE_MOVIE = "SET_ONE_MOVIE";
+export const SET_SEARCH_VALUE = "SET_SEARCH_VALUE";
+export const SET_SEARCH_MOVIES = "SET_SEARCH_MOVIES";
+export const ADD_TO_FAVORITES = "ADD_TO_FAVORITES";
+export const SET_SEARCH_GENRE = "SET_SEARCH_GENRE";
+export const SET_SEARCH_YEAR = "SET_SEARCH_YEAR";
